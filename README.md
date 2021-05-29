@@ -14,4 +14,4 @@ The webpage can be filtered by date, city, state, country, shape of object seen
 ![filter_img](https://github.com/Dorislava/UFOs/blob/main/static/images/Fig.2.JPG)
 
 ## Drawback
-Misssing -'Clear filter' button 
+Misssing -'Clear filter' button for default serch option
